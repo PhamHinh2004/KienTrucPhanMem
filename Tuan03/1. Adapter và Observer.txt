@@ -1,0 +1,28 @@
+giai doan này: project cuối kì -> dang hoang mang C4
+
+1. Adapter và Observer 
+
+2. Available: 24/7  -> không sập 
+	- 2 server 
+	- replicate 
+	- load balance 
+	- health check - monitoring
+	- zero downtime 
+
+deployment -> blue green 
+
+
+  performance : chạy nhanh
+	- cache 
+	- index
+	- load balance 
+	- MQ
+	- Tối uu code 
+	- ......
+Scalability: 
+	- docker ... da làm
+Fault Tolerance: 
+	- kể tra cac loi có thể khắc ( dut nang, may chủ chập chờn, lượng truy cập lớn....)
+	- ?????? > làm 1 cách
+3. domain vs technical(bài toán có 2 chức năng: login, register) 
+	- spring boot ( theo 1 trong hai phương pháp) -> 2 cách này nó khác nhau như thế nào ? 
